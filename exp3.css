@@ -1,0 +1,31 @@
+patient
+ {
+ display:block;
+ margin-left:1%;
+ border:solid green 1px;
+ padding:10px;
+ }
+ name, ssn
+ {
+ display:block;
+ color:blue;
+ font-family:Tahoma;
+ font-weight:bold;
+ font-size:30;
+ }
+ age, roomnumber, primary_insurance,secondary_insurance
+ {
+ display:block;
+ color:green;
+ margin-left:5%;
+ font-family:Ariel;
+ font-size:25;
+ }
+ gn, address, medproblem, drugallergie
+ {
+ display:block;
+ color:brown;
+ margin-left:5%;
+ font-family:Courier;
+ font-size:20;
+ }

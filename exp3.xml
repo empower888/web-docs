@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-stylesheet href='exp3.css' type='text/css'?>
+ <ipd>
+ <patient>
+ <name>
+ <firstname>A</firstname>
+ <middlename>B</middlename>
+ <lastname>C</lastname>
+ </name>
+ <ssn>9845 1245 3698</ssn>
+ <age>25</age>
+ <roomnumber>100</roomnumber>
+ <primary_insurance id="STARHEALT001">
+ <gn>633</gn>
+ <address>Bijapur</address>
+ </primary_insurance>
+ <secondary_insurance id="SBIHEALTH003">
+ <gn>644</gn>
+ <address>Koppal</address>
+ </secondary_insurance>
+ <medproblem>High B.P</medproblem>
+ <drugallergie>No</drugallergie>
+ </patient>
+
+ <patient>
+ <name>
+ <firstname>D</firstname>
+ <middlename>E</middlename>
+ <lastname>F</lastname>
+ </name>
+ <ssn>45469 7896 1254</ssn>
+ <age>25</age>
+ <roomnumber>200</roomnumber>
+ <primary_insurance id="STARHEALT001">
+ <gn>633</gn>
+ <address>Bijapur</address>
+ </primary_insurance>
+ <secondary_insurance id="SBIHEALTH003">
+ <gn>644</gn>
+ <address>Koppal</address>
+ </secondary_insurance>
+ <medproblem>High B.P</medproblem>
+ <drugallergie>No</drugallergie>
+ </patient>
+
+ <patient>
+ <name>
+ <firstname>G</firstname>
+ <middlename>H</middlename>
+ <lastname>I</lastname>
+ </name>
+ <ssn>5236 8541 9856</ssn>
+ <age>25</age>
+ <roomnumber>300</roomnumber>
+ <primary_insurance id="STARHEALT001">
+ <gn>633</gn>
+ <address>Bijapur</address>
+ </primary_insurance>
+ <secondary_insurance id="SBIHEALTH003">
+ <gn>644</gn>
+ <address>Koppal</address>
+ </secondary_insurance>
+ <medproblem>High B.P</medproblem>
+ <drugallergie>No</drugallergie>
+ </patient>
+
+ <patient>
+ <name>
+ <firstname>J</firstname>
+ <middlename>K</middlename>
+ <lastname>L</lastname>
+ </name>
+ <ssn>5214 3652 4512</ssn>
+ <age>25</age>
+ <roomnumber>400</roomnumber>
+ <primary_insurance id="STARHEALT001">
+ <gn>633</gn>
+ <address>Bijapur</address>
+ </primary_insurance>
+ <secondary_insurance id="SBIHEALTH003">
+ <gn>644</gn>
+ <address>Koppal</address>
+ </secondary_insurance>
+ <medproblem>High B.P</medproblem>
+ <drugallergie>No</drugallergie>
+ </patient>
+
+ </ipd>
